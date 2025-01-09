@@ -4,8 +4,10 @@ Predictive Maintenance model for Swire Coca-Cola
 ## Overview
 This project focuses on developing a predictive maintenance solution for Swire Coca-Cola to minimize unplanned machine downtimes. Leveraging survival analysis and machine learning models, the solution aims to forecast machinery failures, enabling proactive repairs, cost savings, and enhanced operational efficiency.
 
-## Business Problem
+## [Business Problem](Business%20Problem%20Statement.pdf)
+
 Swire Coca-Cola’s production plants face significant challenges with unplanned equipment breakdowns, resulting in production shortfalls and an estimated $60 million annual loss. The current reactive maintenance strategy leads to delayed repairs, increased costs, and reduced production efficiency.
+
 
 ## Solution
 To address these challenges, a predictive maintenance system was developed. This system incorporates:
