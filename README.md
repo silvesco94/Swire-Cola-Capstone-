@@ -18,7 +18,7 @@ To address these challenges, a predictive maintenance system was developed. This
 
 These models provide actionable insights to optimize maintenance schedules, reduce costs, and improve production continuity.
 
-## [Business Value](https://github.com/silvesco94/repository-name/blob/main/Swire%20Coca-Cola%20Capstone.pdf)
+## [Business Value](Swire%20Coca-Cola%20Capstone.pdf)
 This solution delivers:
 1. **Proactive Maintenance Planning**:
    - Reduces unplanned downtimes by identifying high-risk machinery.
@@ -36,7 +36,7 @@ The project encountered several challenges:
 - Imbalanced breakdown data, requiring careful handling to avoid overfitting.
 - Inconsistent date fields, necessitating extensive preprocessing for accurate analysis.
 
-## [Contributions](https://github.com/silvesco94/repository-name/blob/main/Seasonal%20Random%20Forest.html)
+## [Contributions](Seasonal%20Random%20Forest.html)
 This project provided an opportunity to:
 - Handle real-world messy data, learning essential preprocessing techniques.
 - Conduct a random forest model to see seasonal effects of broken-down machines.
