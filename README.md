@@ -9,7 +9,8 @@ This project focuses on developing a predictive maintenance solution for Swire C
 Swire Coca-Cola’s production plants face significant challenges with unplanned equipment breakdowns, resulting in production shortfalls and an estimated $60 million annual loss. The current reactive maintenance strategy leads to delayed repairs, increased costs, and reduced production efficiency.
 
 
-## Solution
+## [Solution](Group%20Modeling%20Assignment.html)
+
 To address these challenges, a predictive maintenance system was developed. This system incorporates:
 - **Survival Analysis**: To estimate the likelihood of machine failures over time and predict high-risk periods.
 - **Random Forest Models**: To identify key features influencing breakdowns and generate highly accurate predictions.
