@@ -18,7 +18,8 @@ To address these challenges, a predictive maintenance system was developed. This
 
 These models provide actionable insights to optimize maintenance schedules, reduce costs, and improve production continuity.
 
-## [Business Value](Swire%20Coca-Cola%20Capstone.pdf)
+[Business Value](Swire%20Coca-Cola%20Capstone.pdf)
+
 This solution delivers:
 1. **Proactive Maintenance Planning**:
    - Reduces unplanned downtimes by identifying high-risk machinery.
@@ -29,18 +30,19 @@ This solution delivers:
 3. **Cost Savings**:
    - Aims to cut downtime-related losses by at least 50%, saving Swire Coca-Cola millions annually.
 
-
 ## Challenges
 The project encountered several challenges:
 - Over 80% of missing equipment IDs, reducing model granularity at the machine level.
 - Imbalanced breakdown data, requiring careful handling to avoid overfitting.
 - Inconsistent date fields, necessitating extensive preprocessing for accurate analysis.
 
-## [Contributions](Seasonal%20Random%20Forest.html)
+[Contributions](Seasonal%20Random%20Forest.html)
+
 This project provided an opportunity to:
 - Handle real-world messy data, learning essential preprocessing techniques.
 - Conduct a random forest model to see seasonal effects of broken-down machines.
 - Frame and execute research to align with business goals while balancing technical rigor and stakeholder concerns.
+
 
 ## Additional Resources
 - [Business Problem Statement](Business%20Problem%20Statement.docx)
